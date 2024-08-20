@@ -1,5 +1,4 @@
 # **Hi! I'm Muhammad Junaid👋**    
-                     
 ## **Python Developer | Cloud-Native AI Enthusiast | Tech Innovator**
  
 
