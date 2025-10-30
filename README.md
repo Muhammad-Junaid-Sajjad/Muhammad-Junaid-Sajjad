@@ -1,21 +1,22 @@
 # 👋 Hi, I'm **Muhammad Junaid**
-### 💻 Python Developer | 🤖 ENROLLED IN CERTIFIED AGENTIC & ROBOTIC ENGINEER (CAE RRE) PROGRAM — PIAIC | 🚀 AI & Robotics Enthusiast
+### 💻 Python Developer | 🤖 ENROLLED IN CERTIFIED AGENTIC & ROBOTIC ENGINEER (CARRE) PROGRAM — PIAIC | 🔒 Cybersecurity & Quantum Tech Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Computer Science (BSCS) student** currently **ENROLLED IN CERTIFIED AGENTIC & ROBOTIC ENGINEER (CARRE) PROGRAM — PIAIC (Batch 72 , Lahore Region)**.  
-My focus lies in mastering **Python** and **Agentic AI technologies**, building intelligent, autonomous, and adaptive systems.  
-Driven by curiosity and innovation, I aim to explore and create the next generation of **AI-powered agentic and robotic systems**.
+I’m a **Computer Science (BSCS) student** currently **ENROLLED IN CERTIFIED AGENTIC & ROBOTIC ENGINEER (CAE RRE) PROGRAM — PIAIC (Batch 72, Lahore Region)**.  
+My journey revolves around mastering **Python**, **Agentic AI**, **Cybersecurity**, and **Quantum Computing** — merging intelligence, automation, and encryption into next-gen secure systems.  
+I’m driven by curiosity and innovation, dedicated to building **AI-driven, secure, and quantum-resilient systems** that shape the future of computing.
 
 ---
 
 ## ⚙️ What I’m Currently Working On
 
-- 🧠 Learning and developing **Agentic AI Systems**  
-- 🐍 Building **Python-based automation and AI projects**  
-- 🤖 Exploring **AI + Robotics integration** for intelligent systems  
+- 🧠 Building **Agentic AI systems** that act and reason autonomously  
+- 🐍 Developing **Python-based AI, automation, and security tools**  
+- 🤖 Researching **AI + Robotics + Quantum Computing** integration  
+- 🔒 Exploring **Cybersecurity, ethical hacking, and advanced encryption**  
 - 🧩 Practicing **Prompt Engineering** and **Model Optimization**
 
 ---
@@ -24,20 +25,59 @@ Driven by curiosity and innovation, I aim to explore and create the next generat
 
 | Category | Focus |
 |:--|:--|
-| **Programming Language** | Python |
+| **Languages** | Python, Bash |
 | **AI Focus** | Agentic & Robotic AI Systems |
-| **Technologies** | Cloud-Native AI, Automation, and Intelligent Agents |
-| **Philosophy** | BUILD SMART · AUTOMATE DEEP · INNOVATE CONTINUOUSLY |
+| **Cybersecurity** | Ethical Hacking, Encryption, Network Security |
+| **Quantum Field** | Quantum Algorithms, Quantum Encryption, Quantum AI |
+| **Technologies** | Cloud-Native AI, Automation, Intelligent Agents |
+| **Philosophy** | BUILD SMART · SECURE DEEP · INNOVATE QUANTUMLY |
 
 ---
 
 ## 💡 My Philosophy
 
-> _“Innovation begins where automation meets intelligence.”_
+> _“The future belongs to intelligent, autonomous, and secure systems.”_
 
-- 💡 **LEARN DEEPLY:** Understand how AI systems perceive, decide, and act.  
-- 🧠 **BUILD INTELLIGENTLY:** Create systems that adapt to context and environment.  
-- 🤝 **COLLABORATE OPENLY:** Grow through shared knowledge and experimentation.  
+- 💡 **LEARN DEEPLY:** Understand the synergy of AI, cybersecurity, and quantum computing.  
+- 🧠 **BUILD INTELLIGENTLY:** Create adaptive, secure, and forward-thinking solutions.  
+- 🔐 **DEFEND STRONGLY:** Code with cybersecurity and encryption as core principles.  
+- 🌌 **THINK QUANTUMLY:** Prepare for the next revolution in computing.  
+
+---
+
+## 🎯 Future Vision
+
+- 🚀 Develop **Agentic AI frameworks** that integrate **quantum computing & cybersecurity**.  
+- 🧠 Create **autonomous AI agents** that operate securely across networks.  
+- 🔭 Advance **AI + Quantum Encryption** for the post-quantum era.  
+- ⚡ Build systems that are **intelligent, autonomous, and unbreakably secure.**
+
+---
+
+## 📚 Current Focus
+
+- 🎓 **BS Computer Science (Student)**  
+- 🤖 **ENROLLED IN CERTIFIED AGENTIC & ROBOTIC ENGINEER (CAE RRE) PROGRAM — PIAIC**  
+- 🐍 **Python Developer** — AI, Automation & Security  
+- 🔒 **Learning Cybersecurity & Quantum Encryption Systems**  
+- ☁️ **Exploring Cloud-Native Agentic AI Technologies**
+
+---
+
+## 🌐 Explore & Connect
+
+I’m continuously learning, building, and experimenting with Python, Agentic AI, Cybersecurity, and Quantum Computing.  
+If you share these interests, feel free to connect or explore my repositories!
+
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **“KEEP CODING · KEEP INNOVATING · KEEP SECURING · KEEP EVOLVING”**
+ed knowledge and experimentation.  
 
 ---
 
