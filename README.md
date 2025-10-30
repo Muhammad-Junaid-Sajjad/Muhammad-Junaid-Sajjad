@@ -1,11 +1,11 @@
 # 🌌👋 Hi, I'm **Muhammad Junaid**
-### 💻 Python Developer | 🤖 ENROLLED IN **CERTIFIED AGENTIC & ROBOTIC ENGINEER (CAE RRE)** PROGRAM — PIAIC | 🔒 Cybersecurity & Quantum Tech Enthusiast
+### 💻 Python Developer | 🤖 ENROLLED IN **CERTIFIED AGENTIC & ROBOTIC ENGINEER (CARRE)** PROGRAM — PIAIC | 🔒 Cybersecurity & Quantum Tech Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Computer Science (BSCS) student** currently **ENROLLED IN CERTIFIED AGENTIC & ROBOTIC ENGINEER (CAE RRE) PROGRAM — PIAIC (Batch 72, Lahore Region)**.  
+I’m a **Computer Science (BSCS) student** currently **ENROLLED IN CERTIFIED AGENTIC & ROBOTIC ENGINEER (CARRE) PROGRAM — PIAIC (Batch 72, Lahore Region)**.  
 
 ✨ My journey revolves around **Python**, **Agentic AI**, **Cybersecurity**, and **Quantum Computing** — merging intelligence, automation, and encryption into next-gen secure systems.  
 
