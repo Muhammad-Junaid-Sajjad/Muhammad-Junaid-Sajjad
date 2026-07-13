@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E5A9E&height=200&section=header&text=Muhammad%20Junaid&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20in%20Training%20%7C%20Python%20Developer%20%7C%20Cybersecurity-minded%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.co/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Junaid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20in%20Training%20%7C%20Python%20Developer%20%7C%20Cybersecurity-minded%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Muhammad-Junaid-Sajjad">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=700&lines=Building+working+agentic+AI+systems+%E2%80%94+not+just+studying+them;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+tool-routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+(FDE)+track;Cybersecurity-curious+%C2%B7+Quantum-curious+%C2%B7+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Building+working+agentic+AI+systems+%E2%80%94+not+just+studying+them;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+tool-routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+(FDE)+track;Cybersecurity-curious+%C2%B7+Quantum-curious+%C2%B7+Always+building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-junaid-95742925a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Junaid-Sajjad)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidsajjad2298@gmail.com)
-[![Robotics Textbook](https://img.shields.io/badge/Live%20Project-Physical%20AI%20Textbook-1F3864?style=for-the-badge&logo=readdotcv&logoColor=white)](https://muhammad-junaid-sajjad.github.io/Hackathon1/)
+<a href="https://www.linkedin.com/in/muhammad-junaid-95742925a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Muhammad-Junaid-Sajjad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:junaidsajjad2298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://muhammad-junaid-sajjad.github.io/Hackathon1/"><img src="https://img.shields.io/badge/Live%20Project-Physical%20AI%20Textbook-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Junaid-Sajjad&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -23,7 +25,7 @@ I'm a **Computer Science undergraduate (6th semester)** who builds hands-on, wor
 
 I'm terminal-first, with **Claude Code** as my primary build agent — spec-driven development end-to-end, not just AI-assisted autocomplete.
 
----
+<br/>
 
 ## 🛠️ What I'm Actually Building
 
@@ -36,7 +38,7 @@ I'm terminal-first, with **Claude Code** as my primary build agent — spec-driv
 - 🩺 **[Chronic Kidney Disease Prediction (ML)](https://github.com/Muhammad-Junaid-Sajjad/CCP_ML_Theory)** — academic group project; independently led preprocessing, feature selection, and model comparison.
 - ⚙️ **[Hybrid CPU](https://github.com/Muhammad-Junaid-Sajjad/Ai-based--Hybrid-architectural-project-) & [RISC Simulator](https://github.com/Muhammad-Junaid-Sajjad/Mips_Project_01)** — two interactive CPU simulators in vanilla JS, including a custom instruction-fusion design.
 
----
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -58,7 +60,7 @@ I'm terminal-first, with **Claude Code** as my primary build agent — spec-driv
 **Machine Learning** — Random Forest, XGBoost, Voting Classifier, scikit-learn
 **Testing & QA** — Playwright E2E testing, defect tracking, load testing
 
----
+<br/>
 
 ## 🔐 Cybersecurity & 🧠 Agentic AI — Current Focus
 
@@ -68,39 +70,42 @@ These are the two areas I'm actively deepening right now, alongside my core back
 - 🧠 Practicing **agent architecture patterns** — tool-routing, MCP-based context, SKILL.md-driven behavior — through the PIAIC Agent Factory curriculum and hands-on in OpenClaw.
 - 🧩 Learning **prompt engineering and evaluation-driven agent design**, the discipline behind reliable, production-grade AI Workers rather than demo-ware.
 
-## 🔭 Also Exploring *(theoretical interest — not a claimed skill)*
-
+### 🔭 Also Exploring *(theoretical interest — not a claimed skill)*
 - ⚛️ **Quantum computing** — reading into quantum algorithms and post-quantum cryptography concepts out of genuine curiosity about where security is headed. Coursework/self-study level, not applied or production experience.
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Junaid-Sajjad&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Junaid-Sajjad&theme=default&background=FFFFFF00&stroke=1F3864&ring=1F3864&fire=2E5A9E&currStreakLabel=1F3864&border=1F3864" width="48%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Junaid-Sajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Junaid-Sajjad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Junaid-Sajjad&layout=compact&theme=transparent&title_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false" width="50%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Junaid-Sajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Junaid-Sajjad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Junaid-Sajjad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%"/>
 
 </div>
 
----
+> 💡 If any card above shows "No Data" or a blank box the first time it loads, it's usually the stats API cold-starting or GitHub's cache — refresh the page once or wait a minute. If a card stays broken, the fix is almost always swapping `theme=tokyonight` for another supported theme name (e.g. `radical`, `dracula`, `github_dark`) rather than a custom hex background, since fully custom colors on `theme=transparent` are the most common cause of "colors not showing."
+
+<br/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-junaid-95742925a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Junaid-Sajjad)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidsajjad2298@gmail.com)
+<a href="https://www.linkedin.com/in/muhammad-junaid-95742925a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Muhammad-Junaid-Sajjad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:junaidsajjad2298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 **Open for remote or on-site internships · Comfortable working async across time zones**
 
-</div>
-
-<div align="center">
 <sub>⭐ "Keep building, keep shipping, keep learning."</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5A9E,100:1F3864&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
