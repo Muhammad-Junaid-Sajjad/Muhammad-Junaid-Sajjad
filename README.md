@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.co/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Junaid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20in%20Training%20%7C%20Python%20Developer%20%7C%20Cybersecurity-minded%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Junaid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20in%20Training%20%7C%20Python%20Developer%20%7C%20Cybersecurity-minded%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Muhammad-Junaid-Sajjad">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Building+working+agentic+AI+systems+%E2%80%94+not+just+studying+them;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+tool-routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+(FDE)+track;Cybersecurity-curious+%C2%B7+Quantum-curious+%C2%B7+Always+building" alt="Typing SVG" />
