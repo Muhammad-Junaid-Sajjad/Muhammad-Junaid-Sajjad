@@ -22,9 +22,9 @@
 
 > Currently building **agentic AI systems that actually ship** — not just demoing them.
 
-I'm a **Computer Science undergraduate** at Lahore Garrison University, Pakistan, working at the intersection of **agentic AI** and **production backend systems**. I'm training under **Panaversity's PIAIC Agent Factory (Batch 72)**, on the spec-driven, human-supervised curriculum for building **Digital FTEs** — AI workers built to replace or augment a human full-time role — heading toward the vendor-neutral **Forward Deployed Engineer (FDE)** track.
+I build agentic AI systems and production backend platforms — mostly with **Python**, **FastAPI**, and **Claude**. CS undergrad at Lahore Garrison University, Pakistan, training under **Panaversity's PIAIC Agent Factory (Batch 72)** on the spec-driven, human-supervised curriculum for building **Digital FTEs** — AI workers built to replace or augment a human full-time role — heading toward the vendor-neutral **Forward Deployed Engineer (FDE)** track.
 
-My build process is spec-first: I call it **SDD-RI** (Specification-Driven Development with Recursive Intelligence) — write the spec, build in small verifiable loops, audit and refine against real requirements, repeat. I published a self-authored paper on it. I'm terminal-first on Ubuntu, with **Claude Code** as my primary build agent — spec-driven development end-to-end, not autocomplete-assisted coding.
+My build process is spec-first: I call it **SDD-RI** (Specification-Driven Development with Recursive Intelligence) — write the spec, build in small verifiable loops, audit and refine against real requirements, repeat. I published a self-authored paper on it. Terminal-first on Ubuntu, **Claude Code** as my primary build agent — spec-driven development end-to-end, not autocomplete-assisted coding.
 
 - 🤖 Design and ship agentic systems that reason, plan, and route tools across APIs — **OpenClaw** is the proof
 - 🏗️ Build production backend systems — FastAPI + PostgreSQL, concurrency-safe, load-tested under real traffic
@@ -98,12 +98,15 @@ My build process is spec-first: I call it **SDD-RI** (Specification-Driven Devel
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Junaid-Sajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Junaid-Sajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<!-- METRICS_START -->
+<img src="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/main/metrics.svg" width="100%"/>
+<!-- METRICS_END -->
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Junaid-Sajjad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%"/>
 
@@ -113,10 +116,8 @@ My build process is spec-first: I call it **SDD-RI** (Specification-Driven Devel
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Junaid-Sajjad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%"/>
-
 <!-- SNAKE_START -->
-<img src="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/snake.svg" width="95%"/>
 <!-- SNAKE_END -->
 
 </div>
