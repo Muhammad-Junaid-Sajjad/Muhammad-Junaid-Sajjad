@@ -3,19 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0A192F,60:16324F,85:2E8BFF,100:D4AF37&height=230&section=header&text=Muhammad%20Junaid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FOUNDER%20%C2%B7%20AI-Native%20Cybersecurity%20Engineering%20%7C%20Agentic%20AI%20Engineer%20%7C%20Spec-Driven%20Builder&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/Muhammad-Junaid-Sajjad">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=1000&separator=;&lines=Founder+%40+AI-Native+Cybersecurity+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&repeat=false&separator=;&lines=Founder+%40+AI-Native+Cybersecurity+Engineering;Building+agentic+AI+systems+that+actually+ship;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Contributing+engineer+at+RavalAI;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
 </a>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1200&color=8DA9C4&center=true&vCenter=true&width=1000&repeat=true&lines=Building+agentic+AI+systems+that+actually+ship;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Contributing+engineer+at+RavalAI;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/muhammad-junaid-95742925a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.linkedin.com/company/ai-native-cybersecurity-engineering/"><img src="https://img.shields.io/badge/FOUNDER-AI--Native%20Cybersecurity%20Engineering-D4AF37?style=for-the-badge&logo=springsecurity&logoColor=D4AF37&labelColor=0A192F" /></a>
-<a href="mailto:junaidsajjad2298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://muhammad-junaid-sajjad.github.io/Hackathon1/"><img src="https://img.shields.io/badge/Live%20Project-Physical%20AI%20Textbook-16324F?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Junaid-Sajjad&label=Profile%20Views&color=D4AF37&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -150,16 +139,6 @@ Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-dri
 
 <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Junaid-Sajjad&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub trophies"/>
 
-<br/><br/>
-
-<!-- SNAKE_START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/github-snake.svg" width="95%"/>
-</picture>
-<!-- SNAKE_END -->
-
 </div>
 
 <br/>
@@ -182,10 +161,7 @@ Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-dri
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-junaid-95742925a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.linkedin.com/company/ai-native-cybersecurity-engineering/"><img src="https://img.shields.io/badge/Company%20Page-AI--Native%20Cybersecurity-2E8BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" /></a>
-<a href="https://github.com/Muhammad-Junaid-Sajjad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:junaidsajjad2298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[LinkedIn](https://www.linkedin.com/in/muhammad-junaid-95742925a/) &nbsp;·&nbsp; [Company Page](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/) &nbsp;·&nbsp; [GitHub](https://github.com/Muhammad-Junaid-Sajjad) &nbsp;·&nbsp; [Email](mailto:junaidsajjad2298@gmail.com)
 
 **Founder @ AI-Native Cybersecurity Engineering · Open to collaborations, partnerships & FDE opportunities**
 
