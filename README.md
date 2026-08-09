@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0A192F,60:16324F,85:2E8BFF,100:D4AF37&height=230&section=header&text=Muhammad%20Junaid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FOUNDER%20%C2%B7%20AI-Native%20Cybersecurity%20Engineering%20%7C%20Agentic%20AI%20Engineer%20%7C%20Spec-Driven%20Builder&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/Muhammad-Junaid-Sajjad">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Founder+of+AI-Native+Cybersecurity+Engineering+%E2%80%94+the+SoR+for+the+Agentic+Era;Building+agentic+AI+systems+that+actually+ship+%E2%80%94+not+just+demos;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+tool-routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+(FDE)+track;Contributing+engineer+at+RavalAI+%E2%80%94+AI+brand%2Fsocial+automation;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=1000&separator=;&lines=Founder+%40+AI-Native+Cybersecurity+Engineering" alt="Typing SVG" />
 </a>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1200&color=8DA9C4&center=true&vCenter=true&width=1000&repeat=true&lines=Building+agentic+AI+systems+that+actually+ship;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Contributing+engineer+at+RavalAI;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -27,27 +29,37 @@
 </a>
 </div>
 
-> **Intelligence. Automation. Protection.** — Building the **System of Record (SoR)** for cybersecurity in the agentic era: where autonomous AI agents don't just detect threats, they reason about them, act on them, and leave an auditable trail.
+> **Intelligence. Automation. Protection.**
+> Building the **System of Record (SoR)** for cybersecurity in the agentic era — where autonomous AI agents don't just detect threats.
+> They reason about them, act on them, and leave an auditable trail.
 
-- 🧠 **Thesis**: security tooling built *for* AI agents and *by* AI agents — AI-native from the ground up, not AI bolted onto legacy stacks
-- 📒 **SoR-first**: every autonomous security action recorded, auditable, and replayable
+- 🧠 **Thesis** — security tooling built *for* AI agents and *by* AI agents.
+  AI-native from the ground up, not AI bolted onto legacy stacks.
+- 📒 **SoR-first** — every autonomous security action is recorded, auditable, and replayable.
 - 🔗 **Follow the journey** → [AI-Native Cybersecurity Engineering on LinkedIn](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)
 
 <br/>
 
 ## 👋 About Me
 
-> Founder by conviction, engineer by habit — I build **agentic AI systems that actually ship**, not just demo.
+> Founder by conviction, engineer by habit.
+> I build **agentic AI systems that actually ship** — not just demo.
 
-I'm the founder of **AI-Native Cybersecurity Engineering** and I build agentic AI systems and production backend platforms — mostly with **Python**, **FastAPI**, and **Claude**. CS undergrad at Lahore Garrison University, Pakistan, training under **Panaversity's PIAIC Agent Factory (Batch 72)** on the spec-driven, human-supervised curriculum for building **Digital FTEs** — AI workers built to replace or augment a human full-time role — heading toward the vendor-neutral **Forward Deployed Engineer (FDE)** track.
+I'm the founder of **AI-Native Cybersecurity Engineering**, and I build agentic AI systems and production backend platforms — mostly with **Python**, **FastAPI**, and **Claude**.
 
-My build process is spec-first: I call it **SDD-RI** (Specification-Driven Development with Recursive Intelligence) — write the spec, build in small verifiable loops, audit and refine against real requirements, repeat. I published a self-authored paper on it. Terminal-first on Ubuntu, **Claude Code** as my primary build agent — spec-driven development end-to-end, not autocomplete-assisted coding.
+CS undergrad at Lahore Garrison University, Pakistan. Training under **Panaversity's PIAIC Agent Factory (Batch 72)** — the spec-driven, human-supervised curriculum for building **Digital FTEs**: AI workers built to replace or augment a human full-time role. Heading toward the vendor-neutral **Forward Deployed Engineer (FDE)** track.
+
+My build process is spec-first. I call it **SDD-RI** — Specification-Driven Development with Recursive Intelligence:
+write the spec, build in small verifiable loops, audit and refine against real requirements, repeat.
+I published a self-authored paper on it.
+
+Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-driven development end-to-end, not autocomplete-assisted coding.
 
 - 🛡️ Founding **AI-Native Cybersecurity Engineering** — the SoR for autonomous, agent-driven security
 - 🤖 Design and ship agentic systems that reason, plan, and route tools across APIs — **OpenClaw** is the proof
 - 🏗️ Build production backend systems — FastAPI + PostgreSQL, concurrency-safe, load-tested under real traffic
-- 📐 Apply **SDD-RI**: structured specs before implementation, builder/evaluator agent teams to validate output
-- 🔐 Hands-on security: ran a pre-launch code audit that caught hardcoded API keys — now studying network security, secure auth, and secrets management in depth
+- 📐 Apply **SDD-RI** — structured specs before implementation, builder/evaluator agent teams to validate output
+- 🔐 Hands-on security — ran a pre-launch code audit that caught hardcoded API keys; now studying network security, secure auth, and secrets management in depth
 - 🧩 Practicing MCP-based tool-routing and SKILL.md-driven agent architecture
 
 <details>
@@ -69,7 +81,7 @@ My build process is spec-first: I call it **SDD-RI** (Specification-Driven Devel
 - Found hardcoded API keys in a real pre-launch code audit — that audit is part of why the company exists
 - Wrote a self-published paper on spec-driven development before finishing my degree
 - Ubuntu + terminal only, no IDE training wheels
-- Currently vision-boarding an entire agent-scheduled operating system just because the idea won't leave me alone
+- Currently vision-boarding an entire agent-scheduled operating system, because the idea won't leave me alone
 
 </details>
 
@@ -141,7 +153,11 @@ My build process is spec-first: I call it **SDD-RI** (Specification-Driven Devel
 <br/><br/>
 
 <!-- SNAKE_START -->
-<img src="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/snake.svg" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Muhammad-Junaid-Sajjad/Muhammad-Junaid-Sajjad/output/github-snake.svg" width="95%"/>
+</picture>
 <!-- SNAKE_END -->
 
 </div>
@@ -153,11 +169,11 @@ My build process is spec-first: I call it **SDD-RI** (Specification-Driven Devel
 | Project | What it does | Stack |
 |---|---|---|
 | 🛡️ **[AI-Native Cybersecurity Engineering (SoR)](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)** | Founder — building the System of Record for autonomous, agent-driven cybersecurity. Intelligence. Automation. Protection. | `Agentic AI` `Security` `SoR` |
-| 🤖 **[OpenClaw — WhatsApp Agentic Gateway](https://github.com/Muhammad-Junaid-Sajjad)** | Claude as the reasoning layer for a WhatsApp gateway that autonomously selects and invokes tools; deployed as a persistent `systemd` service on Ubuntu | `Python` `Claude` `MCP` |
-| 🦾 **[Physical AI & Humanoid Robotics Textbook](https://muhammad-junaid-sajjad.github.io/Hackathon1/)** | Solo-built, live interactive platform — 4 modules, 12 chapters, 87+ sections covering ROS 2, NVIDIA Isaac Sim, Gazebo, and VLA robot control ([repo](https://github.com/Muhammad-Junaid-Sajjad/Hackathon1)) | `Docusaurus` `React` `TypeScript` |
+| 🤖 **[OpenClaw — WhatsApp Agentic Gateway](https://github.com/Muhammad-Junaid-Sajjad)** | Claude as the reasoning layer for a WhatsApp gateway that autonomously selects and invokes tools. Deployed as a persistent `systemd` service on Ubuntu | `Python` `Claude` `MCP` |
+| 🦾 **[Physical AI & Humanoid Robotics Textbook](https://muhammad-junaid-sajjad.github.io/Hackathon1/)** | Solo-built, live interactive platform. 4 modules, 12 chapters, 87+ sections covering ROS 2, NVIDIA Isaac Sim, Gazebo, and VLA robot control ([repo](https://github.com/Muhammad-Junaid-Sajjad/Hackathon1)) | `Docusaurus` `React` `TypeScript` |
 | 🗳️ **[LGU MUN 2026 — Delegate Registration Platform](https://github.com/Muhammad-Junaid-Sajjad/LguMun)** | Concurrency-safe registration (`SELECT FOR UPDATE`), load-tested for 450 concurrent users, 98% Playwright E2E pass rate | `FastAPI` `PostgreSQL` |
 | 📄 **[SDD-RI Research](https://github.com/Muhammad-Junaid-Sajjad/AI-Spec-Driven-Development)** | Self-published paper (IEEE citation format) introducing Specification-Driven Development with Recursive Intelligence | `Research` |
-| 🩺 **[Chronic Kidney Disease Prediction (ML)](https://github.com/Muhammad-Junaid-Sajjad/CCP_ML_Theory)** | Academic group project — independently led preprocessing, feature selection, and model comparison | `scikit-learn` `XGBoost` |
+| 🩺 **[Chronic Kidney Disease Prediction (ML)](https://github.com/Muhammad-Junaid-Sajjad/CCP_ML_Theory)** | Academic group project. Independently led preprocessing, feature selection, and model comparison | `scikit-learn` `XGBoost` |
 | ⚙️ **[Hybrid CPU](https://github.com/Muhammad-Junaid-Sajjad/Ai-based--Hybrid-architectural-project-) & [RISC Simulator](https://github.com/Muhammad-Junaid-Sajjad/Mips_Project_01)** | Two interactive CPU simulators in vanilla JS, including a custom instruction-fusion design | `JavaScript` |
 
 <br/>
