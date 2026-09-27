@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0A192F,60:16324F,85:2E8BFF,100:D4AF37&height=230&section=header&text=Muhammad%20Junaid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FOUNDER%20%C2%B7%20AI-Native%20Cybersecurity%20Engineering%20%7C%20Agentic%20AI%20Engineer%20%7C%20Spec-Driven%20Builder&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A192F,55:16324F,80:1B4B8C,100:2E8BFF&height=230&section=header&text=Muhammad%20Junaid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FOUNDER%20%C2%B7%20AI-Native%20Cybersecurity%20Engineering%20%7C%20Agentic%20AI%20Engineer%20%7C%20Spec-Driven%20Builder&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/Muhammad-Junaid-Sajjad">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&repeat=false&separator=;&lines=Founder+%40+AI-Native+Cybersecurity+Engineering;Building+agentic+AI+systems+that+actually+ship;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Contributing+engineer+at+RavalAI;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&repeat=false&separator=;&lines=Founder+%40+AI-Native+Cybersecurity+Engineering;Building+the+System+of+Record+for+the+Agentic+Era;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Contributing+engineer+at+RavalAI;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,46 +19,80 @@
 </div>
 
 > **Intelligence. Automation. Protection.**
-> Building the **System of Record (SoR)** for cybersecurity in the agentic era — where autonomous AI agents don't just detect threats.
-> They reason about them, act on them, and leave an auditable trail.
+> I'm the founder of **AI-Native Cybersecurity Engineering** — building the **System of Record (SoR)** for cybersecurity in the agentic era, where autonomous AI agents don't just detect threats. They reason about them, act on them, and leave an auditable trail.
 
-- 🧠 **Thesis** — security tooling built *for* AI agents and *by* AI agents.
-  AI-native from the ground up, not AI bolted onto legacy stacks.
-- 📒 **SoR-first** — every autonomous security action is recorded, auditable, and replayable.
-- 🔗 **Follow the journey** → [AI-Native Cybersecurity Engineering on LinkedIn](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)
+- 🧠 **Thesis** — security tooling built *for* AI agents and *by* AI agents. AI-native from the ground up, not AI bolted onto legacy stacks.
+- 📒 **SoR-first** — every autonomous security action should be recorded, auditable, and replayable. No agent action should be a black box.
+- 🚧 **Status: early / building in public** — the SoR platform is currently a local build (not yet publicly deployed); this README is a founder's build log, not a shipped product page.
+- 🔗 [AI-Native Cybersecurity Engineering — LinkedIn](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)
 
 <br/>
 
 ## 👋 About Me
 
-> Founder by conviction, engineer by habit.
-> I build **agentic AI systems that actually ship** — not just demo.
+> Founder by conviction, engineer by habit. I build **agentic AI systems that actually ship** — not just demo.
 
-I'm the founder of **AI-Native Cybersecurity Engineering**, and I build agentic AI systems and production backend platforms — mostly with **Python**, **FastAPI**, and **Claude**.
+I'm a CS undergrad at Lahore Garrison University, Pakistan, and the founder of **AI-Native Cybersecurity Engineering**. I build agentic AI systems and production backend platforms — mostly with **Python**, **FastAPI**, and **Claude**.
 
-CS undergrad at Lahore Garrison University, Pakistan. Training under **Panaversity's PIAIC Agent Factory (Batch 72)** — the spec-driven, human-supervised curriculum for building **Digital FTEs**: AI workers built to replace or augment a human full-time role. Heading toward the vendor-neutral **Forward Deployed Engineer (FDE)** track.
+I'm training under **Panaversity's PIAIC Agent Factory (Batch 72)** — the spec-driven, human-supervised curriculum for building **Digital FTEs**: AI workers built to replace or augment a human full-time role. I'm currently heading toward the vendor-neutral **Forward Deployed Engineer (FDE)** track and actively working through that coursework.
 
-My build process is spec-first. I call it **SDD-RI** — Specification-Driven Development with Recursive Intelligence:
-write the spec, build in small verifiable loops, audit and refine against real requirements, repeat.
-I published a self-authored paper on it.
+My build process is spec-first. I call it **SDD-RI** — Specification-Driven Development with Recursive Intelligence: write the spec, build in small verifiable loops, audit and refine against real requirements, repeat. I published a self-authored paper on it.
 
 Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-driven development end-to-end, not autocomplete-assisted coding.
 
 - 🛡️ Founding **AI-Native Cybersecurity Engineering** — the SoR for autonomous, agent-driven security
 - 🤖 Design and ship agentic systems that reason, plan, and route tools across APIs — **OpenClaw** is the proof
 - 🏗️ Build production backend systems — FastAPI + PostgreSQL, concurrency-safe, load-tested under real traffic
-- 📐 Apply **SDD-RI** — structured specs before implementation, builder/evaluator agent teams to validate output
-- 🔐 Hands-on security — ran a pre-launch code audit that caught hardcoded API keys; now studying network security, secure auth, and secrets management in depth
-- 🧩 Practicing MCP-based tool-routing and SKILL.md-driven agent architecture
+- 📐 Apply **SDD-RI** — structured specs before implementation, builder/evaluator agent loops to validate output
+- 🔐 Hands-on security focus — studying network security, secure auth, and secrets management in depth as part of building AI-Native Cybersecurity Engineering
+- 🧩 Studying MCP-based tool-routing and Claude's Skills/Subagents architecture, and applying it to my own agent designs
+
+<br/>
+
+## 🤖 Agentic & Multi-Agent Architecture — What I'm Building Toward
+
+I think about agent systems in layers, not as one monolithic "agent":
+
+```
+Harness            ← the runtime an agent lives in (Claude Code, or one you build)
+ └── Main Agent     ← the primary worker inside the harness
+      ├── Skills        ← in-context, task-specific instructions loaded on demand
+      ├── Subagents      ← isolated workers with their own context window
+      └── Agent Teams    ← multiple agents coordinating on a shared goal
+Hooks & Plugins     ← cut across every layer — deterministic control points
+                       and extended tool access, regardless of which layer fires
+```
+
+Why this matters, in practice:
+- **Context isolation** — a single agent's context window degrades as it accumulates irrelevant history. Subagents give each subtask a clean, dedicated context, which is what makes parallel work (research, multi-file refactors, multi-source synthesis) viable instead of one long degrading thread.
+- **Skills vs. subagents** — skills are cheap: markdown loaded into the *same* context only when relevant, replacing repetitive prompting. Subagents cost more (a new context, a round-trip) but buy isolation. Knowing which one a task actually needs is most of the architecture decision.
+- **Where the speedup comes from** — Anthropic's own multi-agent research system (Opus as lead, Sonnet subagents) beat a single-agent Opus setup by ~90% on internal evals, largely because independent context windows let subagents reason in parallel instead of serially.
+- **Hooks** — deterministic, code-level control points at an agent's lifecycle events (before a tool call, after a response) that can't be reasoned around the way a prompt instruction can. This is what turns "the model usually behaves" into "the system guarantees a boundary" — which is exactly the property security-facing agent tooling needs.
+
+I'm actively studying this stack (Claude's Skills / Subagents / Agent Teams model, and the harness/hooks/plugins layer around it) and folding it into how I design **OpenClaw** and the future AI-Native Cybersecurity Engineering agent tooling — this section reflects architecture I'm building toward, not a shipped multi-agent product.
+
+<br/>
+
+## 📒 SoR, KSoR & DSoR — the Governance Layer Behind Agentic Systems
+
+A **System of Record (SoR)** is the thing an organization treats as ground truth — the record everyone, including an AI agent, defers to. For autonomous agents specifically, two complementary ideas (from Panaversity's open-source `ksor` and `dsor` projects, which I've studied closely) frame what a *governed* SoR needs to do:
+
+- **KSoR (Knowledge System of Record)** — an authoritative, governed knowledge layer for humans and agents to answer *from*. The key distinction: a knowledge base merely stores information; a KSoR establishes **authority** — provenance, citations, versioning, and the ability to abstain when it doesn't know, treated as architecture, not optional extras.
+- **DSoR (Data System of Record)** — the governed layer between an agent and an organization's real systems (ERP, accounting, databases). It never takes an agent's word for anything: it checks permissions itself, requires human sign-off on large actions, prevents duplicate actions, and keeps an audit trail — because an agent can be confidently wrong or manipulated by text it reads, and will retry things a human wouldn't.
+
+This is the conceptual foundation I'm building **AI-Native Cybersecurity Engineering**'s own SoR thinking on: security actions taken by autonomous agents need the same governed, audited, non-repudiable trail — applied to threat detection and response instead of general business operations.
+
+<br/>
 
 <details>
 <summary>🚧 What I'm currently working on</summary>
 <br/>
 
-- Laying the foundation of **AI-Native Cybersecurity Engineering** — vision, architecture, and the SoR core
+- Laying the foundation of **AI-Native Cybersecurity Engineering** — vision, architecture, and the SoR core, including an early local build of the platform site (not yet public)
 - Contributing engineer at **RavalAI** — building the module that dispatches finalized brand posts to each social platform
 - Finishing the **LGU MUN 2026** delegate registration platform ahead of the event
-- Deepening PIAIC Agent Factory coursework toward the Forward Deployed Engineer track
+- Actively working through **PIAIC Agent Factory** coursework toward the Forward Deployed Engineer (FDE) track
+- Studying Claude's Skills / Subagents / Agent Teams architecture and Panaversity's KSoR/DSoR governance model, and applying both to my own agent designs
 - Sketching a long-term vision for an **Autonomous Agentic Operating System (AAOS)** — a self-evolving, agent-scheduled OS built on Linux
 
 </details>
@@ -67,7 +101,6 @@ Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-dri
 <summary>⚡ Fun facts</summary>
 <br/>
 
-- Found hardcoded API keys in a real pre-launch code audit — that audit is part of why the company exists
 - Wrote a self-published paper on spec-driven development before finishing my degree
 - Ubuntu + terminal only, no IDE training wheels
 - Currently vision-boarding an entire agent-scheduled operating system, because the idea won't leave me alone
@@ -97,9 +130,11 @@ Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-dri
 `AI & AGENTIC STACK`
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-2E8BFF?style=for-the-badge)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-16324F?style=for-the-badge)
-![SKILL.md Architecture](https://img.shields.io/badge/SKILL.md%20Architecture-0A192F?style=for-the-badge)
+![Skills & Subagents](https://img.shields.io/badge/Skills%20%26%20Subagents-16324F?style=for-the-badge)
+![Hooks](https://img.shields.io/badge/Hooks-16324F?style=for-the-badge)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0A192F?style=for-the-badge)
 
 `SECURITY`
 
@@ -121,6 +156,15 @@ Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-dri
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 </div>
+
+<br/>
+
+## 🎓 PIAIC Agent Factory — FDE Track Status
+
+- **Program:** PIAIC Certified Agentic & Robotic Engineer (CARRE), Batch 72
+- **Track:** Forward Deployed Engineer (FDE) — vendor-neutral, spec-driven, human-supervised agent engineering
+- **Status:** Actively enrolled and progressing through coursework — studying agent harness design, Claude's Skills/Subagents/Agent Teams model, and governed-record architecture (KSoR/DSoR) as part of the curriculum
+- **Applying it to:** OpenClaw's agent routing design and the early architecture of AI-Native Cybersecurity Engineering
 
 <br/>
 
@@ -147,7 +191,7 @@ Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-dri
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛡️ **[AI-Native Cybersecurity Engineering (SoR)](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)** | Founder — building the System of Record for autonomous, agent-driven cybersecurity. Intelligence. Automation. Protection. | `Agentic AI` `Security` `SoR` |
+| 🛡️ **[AI-Native Cybersecurity Engineering (SoR)](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)** | Founder — building the System of Record for autonomous, agent-driven cybersecurity. Intelligence. Automation. Protection. Early stage, building in public. | `Agentic AI` `Security` `SoR` |
 | 🤖 **[OpenClaw — WhatsApp Agentic Gateway](https://github.com/Muhammad-Junaid-Sajjad)** | Claude as the reasoning layer for a WhatsApp gateway that autonomously selects and invokes tools. Deployed as a persistent `systemd` service on Ubuntu | `Python` `Claude` `MCP` |
 | 🦾 **[Physical AI & Humanoid Robotics Textbook](https://muhammad-junaid-sajjad.github.io/Hackathon1/)** | Solo-built, live interactive platform. 4 modules, 12 chapters, 87+ sections covering ROS 2, NVIDIA Isaac Sim, Gazebo, and VLA robot control ([repo](https://github.com/Muhammad-Junaid-Sajjad/Hackathon1)) | `Docusaurus` `React` `TypeScript` |
 | 🗳️ **[LGU MUN 2026 — Delegate Registration Platform](https://github.com/Muhammad-Junaid-Sajjad/LguMun)** | Concurrency-safe registration (`SELECT FOR UPDATE`), load-tested for 450 concurrent users, 98% Playwright E2E pass rate | `FastAPI` `PostgreSQL` |
