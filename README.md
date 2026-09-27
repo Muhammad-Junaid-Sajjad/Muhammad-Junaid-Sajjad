@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A192F,55:16324F,80:1B4B8C,100:2E8BFF&height=230&section=header&text=Muhammad%20Junaid%20Sajjad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Founder%2C%20AI-Native%20Cybersecurity%20Engineering&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A192F,55:16324F,80:1B4B8C,100:2E8BFF&height=230&section=header&text=Muhammad%20Junaid%20Sajjad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Founder%20%40%20AI-Native%20Cybersecurity%20Engineering&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/Muhammad-Junaid-Sajjad">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&repeat=false&separator=;&lines=Founding+Engineer+%40+Mellox+AI+(formerly+RavalAI);Founder+%40+AI-Native+Cybersecurity+Engineering;Building+the+System+of+Record+for+the+Agentic+Era;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
@@ -71,7 +71,7 @@ I progressed from intern to **Founding Engineer**, with sole technical ownership
 
 <div align="center">
 <a href="https://www.linkedin.com/company/ai-native-cybersecurity-engineering/">
-<img src="https://sc02.alicdn.com/kf/Acb73d6ac3c7f44b59ca10d58831d7df7V.png" width="100%" alt="AI-Native Cybersecurity Engineering — The System of Record for the Agentic Era"/>
+<img src="ai-native-cybersecurity-banner.jpg" width="100%" alt="AI-Native Cybersecurity Engineering — building the System of Record for AI-native digital employees"/>
 </a>
 </div>
 
@@ -84,6 +84,12 @@ I progressed from intern to **Founding Engineer**, with sole technical ownership
 - 📒 **SoR-first** — every autonomous security action should be recorded, auditable, and replayable. No agent action should be a black box.
 - 🚧 **Status** — early / building in public. The SoR platform is currently a local build (not yet publicly deployed); this is a founder's build log, not a shipped product page.
 - 🔗 [Company page — LinkedIn](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)
+
+<div align="center">
+<img src="platform-preview.png" width="90%" alt="Early UI preview of the AI-Native Cybersecurity Engineering platform"/>
+<br/>
+<sub><i>Early UI preview — local build, not yet deployed. Figures shown are placeholder/demo values, not a live system.</i></sub>
+</div>
 
 ### SoR, KSoR & DSoR — the governance layer behind agentic systems
 
@@ -141,16 +147,11 @@ I'm actively studying this stack and folding it into how I design **OpenClaw** a
 
 <div align="center">
 
-**Languages**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-16324F?style=for-the-badge&logo=docusaurus&logoColor=white)
@@ -161,31 +162,20 @@ I'm actively studying this stack and folding it into how I design **OpenClaw** a
 ![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-2E8BFF?style=for-the-badge)
 ![Skills & Subagents](https://img.shields.io/badge/Skills%20%26%20Subagents-16324F?style=for-the-badge)
-![Hooks](https://img.shields.io/badge/Hooks-16324F?style=for-the-badge)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-0A192F?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
-**Security**
-
-![Secure Auth](https://img.shields.io/badge/OAuth%202.0-0A192F?style=for-the-badge&logo=springsecurity&logoColor=2E8BFF)
-![Secrets Management](https://img.shields.io/badge/Secrets%20Management-16324F?style=for-the-badge&logo=vault&logoColor=white)
-![Code Audit](https://img.shields.io/badge/Code%20Audit-2E8BFF?style=for-the-badge&logo=owasp&logoColor=white)
-
-**ML & Data**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-16324F?style=for-the-badge)
-
-**Databases, Infra & QA**
+**Data, Infra & Security**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-0A192F?style=for-the-badge&logo=springsecurity&logoColor=2E8BFF)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
@@ -197,12 +187,10 @@ I'm actively studying this stack and folding it into how I design **OpenClaw** a
 
 <div align="center">
 
+**216 total contributions** (Mar 30, 2023 – present) &nbsp;·&nbsp; **Longest streak: 6 days**
+
 <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Junaid-Sajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2E8BFF&text_color=C9D1D9&include_all_commits=true&count_private=true" width="49%" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Junaid-Sajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9&langs_count=8" width="41%" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=Muhammad-Junaid-Sajjad&theme=tokyonight&hide_border=true&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=2E8BFF&currStreakLabel=D4AF37&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Junaid-Sajjad&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub trophies"/>
 
 </div>
 
