@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A192F,55:16324F,80:1B4B8C,100:2E8BFF&height=230&section=header&text=Muhammad%20Junaid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FOUNDER%20%C2%B7%20AI-Native%20Cybersecurity%20Engineering%20%7C%20Agentic%20AI%20Engineer%20%7C%20Spec-Driven%20Builder&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A192F,55:16324F,80:1B4B8C,100:2E8BFF&height=230&section=header&text=Muhammad%20Junaid%20Sajjad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%7C%20Agentic%20AI%20Engineer%20%7C%20Founder%2C%20AI-Native%20Cybersecurity%20Engineering&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/Muhammad-Junaid-Sajjad">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&repeat=false&separator=;&lines=Founder+%40+AI-Native+Cybersecurity+Engineering;Building+the+System+of+Record+for+the+Agentic+Era;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Contributing+engineer+at+RavalAI;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&repeat=false&separator=;&lines=Founding+Engineer+%40+Mellox+AI+(formerly+RavalAI);Founder+%40+AI-Native+Cybersecurity+Engineering;Building+the+System+of+Record+for+the+Agentic+Era;Solo-built+OpenClaw%3A+WhatsApp+%E2%86%92+Claude+%E2%86%92+MCP+routing;PIAIC+Agent+Factory+%E2%80%94+Forward+Deployed+Engineer+track;Security-first+%C2%B7+Spec-driven+%C2%B7+Always+shipping" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,22 +30,23 @@
 
 ## 👋 About Me
 
-> Founder by conviction, engineer by habit. I build **agentic AI systems that actually ship** — not just demo.
+> Founder by conviction, engineer by habit. I take systems from ambiguous requirements to production — architecture, implementation, security, testing, deployment, and stakeholder communication, end to end.
 
-I'm a CS undergrad at Lahore Garrison University, Pakistan, and the founder of **AI-Native Cybersecurity Engineering**. I build agentic AI systems and production backend platforms — mostly with **Python**, **FastAPI**, and **Claude**.
+I'm a CS undergrad (7th semester) at Lahore Garrison University, Pakistan, and the founder of **AI-Native Cybersecurity Engineering**. At **Mellox AI** (formerly RavalAI), I went from intern to **Founding Engineer**, with sole technical ownership of the Social Distribution Engine — a production FastAPI/PostgreSQL/Redis/Celery platform integrated with multiple social networks.
 
-I'm training under **Panaversity's PIAIC Agent Factory (Batch 72)** — the spec-driven, human-supervised curriculum for building **Digital FTEs**: AI workers built to replace or augment a human full-time role. I'm currently heading toward the vendor-neutral **Forward Deployed Engineer (FDE)** track and actively working through that coursework.
+I'm training as a **Forward Deployed Engineer (FDE)** under **Panaversity's Agent Factory** — the spec-driven, human-supervised curriculum for building **Digital FTEs**: AI workers built to replace or augment a human full-time role.
 
-My build process is spec-first. I call it **SDD-RI** — Specification-Driven Development with Recursive Intelligence: write the spec, build in small verifiable loops, audit and refine against real requirements, repeat. I published a self-authored paper on it.
+My build process is spec-first. I call it **SDD-RI** — Specification-Driven Development with Recursive Intelligence: write the spec, build in small verifiable loops, audit and refine against real requirements, repeat. I authored a 5,710-word IEEE-style research paper on it, backed by a mixed-methods study across 12 workflow executions and 108 tasks.
 
 Terminal-first on Ubuntu. **Claude Code** is my primary build agent — spec-driven development end-to-end, not autocomplete-assisted coding.
 
+- 🏗️ **Founding Engineer @ Mellox AI** — owned a production system across 8 build phases, 166 automated tests (153 unit, 13 E2E), queue-first architecture with FastAPI + PostgreSQL + Redis + Celery + Docker Compose
 - 🛡️ Founding **AI-Native Cybersecurity Engineering** — the SoR for autonomous, agent-driven security
 - 🤖 Design and ship agentic systems that reason, plan, and route tools across APIs — **OpenClaw** is the proof
-- 🏗️ Build production backend systems — FastAPI + PostgreSQL, concurrency-safe, load-tested under real traffic
-- 📐 Apply **SDD-RI** — structured specs before implementation, builder/evaluator agent loops to validate output
-- 🔐 Hands-on security focus — studying network security, secure auth, and secrets management in depth as part of building AI-Native Cybersecurity Engineering
+- 📐 Apply **SDD-RI** — structured specs before implementation, empirically validated against real task-completion data
+- 🔐 Production security work — Fernet-encrypted OAuth tokens at rest, HMAC-SHA256 webhook signing, idempotency keys, typed failure classification, pre-launch code auditing
 - 🧩 Studying MCP-based tool-routing and Claude's Skills/Subagents architecture, and applying it to my own agent designs
+- 🎓 Teaching & mentorship — part-time instructor at a private academy (2024–2026) and peer mentor guiding 15+ CS students at LGU
 
 <br/>
 
@@ -89,9 +90,9 @@ This is the conceptual foundation I'm building **AI-Native Cybersecurity Enginee
 <br/>
 
 - Laying the foundation of **AI-Native Cybersecurity Engineering** — vision, architecture, and the SoR core, including an early local build of the platform site (not yet public)
-- Contributing engineer at **RavalAI** — building the module that dispatches finalized brand posts to each social platform
-- Finishing the **LGU MUN 2026** delegate registration platform ahead of the event
-- Actively working through **PIAIC Agent Factory** coursework toward the Forward Deployed Engineer (FDE) track
+- **Founding Engineer at Mellox AI** (formerly RavalAI) — sole technical ownership of the Social Distribution Engine, from architecture through production deployment
+- Independent client-facing engineering work across small business and university contexts — requirements discovery through deployment
+- Actively training as a **Forward Deployed Engineer** through **Panaversity's Agent Factory**
 - Studying Claude's Skills / Subagents / Agent Teams architecture and Panaversity's KSoR/DSoR governance model, and applying both to my own agent designs
 - Sketching a long-term vision for an **Autonomous Agentic Operating System (AAOS)** — a self-evolving, agent-scheduled OS built on Linux
 
@@ -150,6 +151,8 @@ This is the conceptual foundation I'm building **AI-Native Cybersecurity Enginee
 `DATABASES, INFRA & QA`
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -159,12 +162,12 @@ This is the conceptual foundation I'm building **AI-Native Cybersecurity Enginee
 
 <br/>
 
-## 🎓 PIAIC Agent Factory — FDE Track Status
+## 🎓 Forward Deployed Engineer Training — Panaversity Agent Factory
 
-- **Program:** PIAIC Certified Agentic & Robotic Engineer (CARRE), Batch 72
+- **Program:** Panaversity Agent Factory — Digital FTE manufacturing, deployable specification-first AI systems
 - **Track:** Forward Deployed Engineer (FDE) — vendor-neutral, spec-driven, human-supervised agent engineering
-- **Status:** Actively enrolled and progressing through coursework — studying agent harness design, Claude's Skills/Subagents/Agent Teams model, and governed-record architecture (KSoR/DSoR) as part of the curriculum
-- **Applying it to:** OpenClaw's agent routing design and the early architecture of AI-Native Cybersecurity Engineering
+- **Status:** In progress — methods applied directly to production work through **OpenClaw**
+- **Also studying:** Claude's Skills/Subagents/Agent Teams model and governed-record architecture (KSoR/DSoR), folded into OpenClaw's design and the early architecture of AI-Native Cybersecurity Engineering
 
 <br/>
 
@@ -191,12 +194,13 @@ This is the conceptual foundation I'm building **AI-Native Cybersecurity Enginee
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛡️ **[AI-Native Cybersecurity Engineering (SoR)](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)** | Founder — building the System of Record for autonomous, agent-driven cybersecurity. Intelligence. Automation. Protection. Early stage, building in public. | `Agentic AI` `Security` `SoR` |
-| 🤖 **[OpenClaw — WhatsApp Agentic Gateway](https://github.com/Muhammad-Junaid-Sajjad)** | Claude as the reasoning layer for a WhatsApp gateway that autonomously selects and invokes tools. Deployed as a persistent `systemd` service on Ubuntu | `Python` `Claude` `MCP` |
-| 🦾 **[Physical AI & Humanoid Robotics Textbook](https://muhammad-junaid-sajjad.github.io/Hackathon1/)** | Solo-built, live interactive platform. 4 modules, 12 chapters, 87+ sections covering ROS 2, NVIDIA Isaac Sim, Gazebo, and VLA robot control ([repo](https://github.com/Muhammad-Junaid-Sajjad/Hackathon1)) | `Docusaurus` `React` `TypeScript` |
-| 🗳️ **[LGU MUN 2026 — Delegate Registration Platform](https://github.com/Muhammad-Junaid-Sajjad/LguMun)** | Concurrency-safe registration (`SELECT FOR UPDATE`), load-tested for 450 concurrent users, 98% Playwright E2E pass rate | `FastAPI` `PostgreSQL` |
-| 📄 **[SDD-RI Research](https://github.com/Muhammad-Junaid-Sajjad/AI-Spec-Driven-Development)** | Self-published paper (IEEE citation format) introducing Specification-Driven Development with Recursive Intelligence | `Research` |
-| 🩺 **[Chronic Kidney Disease Prediction (ML)](https://github.com/Muhammad-Junaid-Sajjad/CCP_ML_Theory)** | Academic group project. Independently led preprocessing, feature selection, and model comparison | `scikit-learn` `XGBoost` |
+| 🏗️ **Social Distribution Engine** — Mellox AI | Founding Engineer, sole technical ownership. 8 build phases, 166 automated tests (153 unit, 13 E2E). Queue-first architecture with row-level locking (`SELECT FOR UPDATE SKIP LOCKED`) to prevent double-posting; Fernet-encrypted OAuth tokens, HMAC-SHA256 webhook signing, idempotency keys | `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker Compose` |
+| 🛡️ **[AI-Native Cybersecurity Engineering (SoR)](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/)** | Founder — building the System of Record for autonomous, agent-driven cybersecurity. Early stage, building in public. | `Agentic AI` `Security` `SoR` |
+| 🤖 **[OpenClaw — WhatsApp Agentic Gateway](https://github.com/Muhammad-Junaid-Sajjad)** | Claude as the reasoning layer for a WhatsApp gateway that autonomously selects and invokes tools. MCP-based tool routing, SKILL.md agent-definition patterns. Deployed as a persistent `systemd` service on Ubuntu | `Python` `Claude` `MCP` |
+| 🦾 **[Physical AI & Humanoid Robotics Textbook](https://muhammad-junaid-sajjad.github.io/Hackathon1/)** | Solo-built, live interactive platform. 4 modules, 12 chapters, 87+ sections covering ROS 2, NVIDIA Isaac Sim, Gazebo, and VLA robot control. FastAPI + LangChain + Qdrant RAG chatbot and personalization engine ([repo](https://github.com/Muhammad-Junaid-Sajjad/Hackathon1)) | `Docusaurus` `React` `TypeScript` `LangChain` `Qdrant` |
+| 🗳️ **[LGU MUN 2026 — Delegate Registration Platform](https://github.com/Muhammad-Junaid-Sajjad/LguMun)** | Concurrency-safe registration (`SELECT FOR UPDATE`), load-tested for 450 concurrent delegates, pre-launch audit resolving 9 defects, 98% Playwright E2E pass rate (41/42) | `FastAPI` `PostgreSQL` |
+| 📄 **[SDD-RI Research](https://github.com/Muhammad-Junaid-Sajjad/AI-Spec-Driven-Development)** | 5,710-word IEEE-style paper introducing Specification-Driven Development with Recursive Intelligence. Mixed-methods study: 12 workflow executions, 108 tasks, 91.7% task-completion rate, 4.2/5.0 adherence score | `Research` |
+| 🩺 **[Chronic Kidney Disease Prediction (ML)](https://github.com/Muhammad-Junaid-Sajjad/CCP_ML_Theory)** | Academic group project. Independently led preprocessing, feature selection, and model comparison across Random Forest, XGBoost, and a Voting Classifier | `scikit-learn` `XGBoost` |
 | ⚙️ **[Hybrid CPU](https://github.com/Muhammad-Junaid-Sajjad/Ai-based--Hybrid-architectural-project-) & [RISC Simulator](https://github.com/Muhammad-Junaid-Sajjad/Mips_Project_01)** | Two interactive CPU simulators in vanilla JS, including a custom instruction-fusion design | `JavaScript` |
 
 <br/>
@@ -207,7 +211,7 @@ This is the conceptual foundation I'm building **AI-Native Cybersecurity Enginee
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-junaid-95742925a/) &nbsp;·&nbsp; [Company Page](https://www.linkedin.com/company/ai-native-cybersecurity-engineering/) &nbsp;·&nbsp; [GitHub](https://github.com/Muhammad-Junaid-Sajjad) &nbsp;·&nbsp; [Email](mailto:junaidsajjad2298@gmail.com)
 
-**Founder @ AI-Native Cybersecurity Engineering · Open to collaborations, partnerships & FDE opportunities**
+**Founding Engineer @ Mellox AI · Founder @ AI-Native Cybersecurity Engineering · Open to FDE opportunities & collaborations**
 
 <sub>💬 Let's build the security layer of the agentic era — together.</sub>
 
